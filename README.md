@@ -81,7 +81,7 @@ forge test         # Run tests
 
 ```
 
-### Backend (Smart Contracts)
+### Frontend 
 ```bash
 npm install        # Install dependencies
 npm run dev        # Start frontend on localhost
