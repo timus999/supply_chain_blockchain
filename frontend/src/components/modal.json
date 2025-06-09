@@ -1,0 +1,19 @@
+[
+    {
+      "batchId": "MED001",
+      "medicine": "Pain Relief Cream",
+      "quantity": "1000 units",
+      "quality": "Excellent",
+      "status": "Available",
+      "date": "2024-06-01"
+    },
+    {
+      "batchId": "MED002",
+      "medicine": "Anti-inflammatory Tablets",
+      "quantity": "2000 units",
+      "quality": "Good",
+      "status": "Available",
+      "date": "2024-06-02"
+    }
+  ]
+  
